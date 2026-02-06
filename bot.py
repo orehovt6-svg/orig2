@@ -93,10 +93,13 @@ HABITS_LIST = [
 
 COURSES = [
     ("Python для начинающих", "https://stepik.org/course/58852"),
-    ("Тайм-менеджмент", "https://stepik.org/course/59398"),
-    ("Самодисциплина", "https://stepik.org/course/62178"),
-    ("Основы программирования", "https://stepik.org/course/67"),
-    ("Психология достижений", "https://stepik.org/course/48103"),
+    ("Творчество, психология, скорочтение", "4brain.ru"),
+    ("Самодисциплина", "https://phrasis.ru/kursy/razvitie-samodistsipliny-i-upravlenie-vremenem/"),
+    ("Основы программирования", "https://start.practicum.yandex/osnovy-programmirovaniya?"),
+    ("Маркетинг, программирование, дизайн", "netology.ru"),
+    ("Академические курсы русских вузов", "openedu.ru"),
+    ("Наука, культура, искусство", "postnauka.ru"),
+    ("Школьные, вузовские курсы", "universarium.org"),
 ]
 
 STATUS_ICONS = {
